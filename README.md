@@ -1,3 +1,3 @@
-# RandomPicAPI-Vercel
+# 随机图
 
-这是一个简陋的作品。
+随机图片。
